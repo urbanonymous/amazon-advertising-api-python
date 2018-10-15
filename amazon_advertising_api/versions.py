@@ -1,3 +1,3 @@
 versions = {
-    'api_version': 'v2',
-    'application_version': '2.0'}
+    'api_version': 'v1',
+    'application_version': '1.0'}
